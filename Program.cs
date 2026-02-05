@@ -36,8 +36,8 @@
                 System.Console.WriteLine("Error: Invalid operation selected.");
                 return;
         }
-        System.Console.WriteLine($"The result is: {result}");
-        
+        System.Console.WriteLine($"The result is: {result}");1983
+
     }
     
 }
