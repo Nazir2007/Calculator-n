@@ -1,0 +1,14 @@
+C:\Users\riseo\calc-n\bin\Debug\net9.0\calc-n.exe
+C:\Users\riseo\calc-n\bin\Debug\net9.0\calc-n.deps.json
+C:\Users\riseo\calc-n\bin\Debug\net9.0\calc-n.runtimeconfig.json
+C:\Users\riseo\calc-n\bin\Debug\net9.0\calc-n.dll
+C:\Users\riseo\calc-n\bin\Debug\net9.0\calc-n.pdb
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.AssemblyInfoInputs.cache
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.AssemblyInfo.cs
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.csproj.CoreCompileInputs.cache
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.dll
+C:\Users\riseo\calc-n\obj\Debug\net9.0\refint\calc-n.dll
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.pdb
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.genruntimeconfig.cache
+C:\Users\riseo\calc-n\obj\Debug\net9.0\ref\calc-n.dll
