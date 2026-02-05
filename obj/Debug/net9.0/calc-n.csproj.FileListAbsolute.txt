@@ -12,3 +12,4 @@ C:\Users\riseo\calc-n\obj\Debug\net9.0\refint\calc-n.dll
 C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.pdb
 C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.genruntimeconfig.cache
 C:\Users\riseo\calc-n\obj\Debug\net9.0\ref\calc-n.dll
+C:\Users\riseo\calc-n\obj\Debug\net9.0\calc-n.sourcelink.json
